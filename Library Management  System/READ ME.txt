@@ -1,0 +1,4 @@
+copy the demo folder into your workspace;
+copy 'a' folder into the databases folder(in C:\ProgramData\MySQL\MySQL Server 8.0\Data\);
+include the Jar files in libraries;
+change the username and password.
